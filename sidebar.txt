@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mkg:home|Door43 (mkg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mkg|d43-mkg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mkg/archive/master.zip|d43-mkg.zip]]
+
+**Recent Changes**
+{{changes>ns = mkg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mkg|Ethnologue data]]
+
